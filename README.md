@@ -26,17 +26,6 @@ Project manager suggest to use public data sets with game sales and game rating 
   - Other_Sales - Sales in the rest of the world (in millions)
   - Global_Sales - Total worldwide sales.
 
----
-title: "Blue Fox Games"
-author: "Faury A."
-date: "2023-07-30"
-output: 
-  html_document:
-    toc: true
-    collapse: false
-    theme: "darkly"
-    toc_float: true
----
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
